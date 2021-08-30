@@ -8,7 +8,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 @ApplicationScoped
-@RegisterRestClient(baseUri = "http://localhost:8081/time")
+@RegisterRestClient(baseUri = "http://localhost:8081/uahuahauh")
 public interface TimeService {
 
     @GET
